@@ -49,3 +49,45 @@ habit-tracker-app/
 ├── vite.config.js # Vite configuration
 ├── package.json
 └── README.md
+
+
+---
+
+## 🧑‍💻 Getting Started
+
+To run the project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/Nikitachauraiya2314/habit-tracker-app
+
+# Navigate into the folder
+cd habit-tracker-app
+
+# Install dependencies
+npm install
+
+# Run the development server
+
+npm run dev
+# Build your app
+npm run build
+
+# Deploy to GitHub Pages
+npm run deploy
+
+🙋‍♀️ Author
+Nikita Chauraiya
+📧 nikitachaurasiya85@gmail.com
+🔗 https://www.linkedin.com/in/nikita-chaurasiya-559555289/
+
+
+---
+
+### ✅ Next Steps:
+
+- 📂 Add `README.md` file to your project root.
+- 🖼️ Add your dashboard screenshots in the `public/` folder and update the screenshot section with correct image paths like `![Dashboard](public/dashboard.png)`.
+- 🆙 Commit and push this file to GitHub.
+
+Let me know if you want me to **create and upload the file** or help with adding images!
