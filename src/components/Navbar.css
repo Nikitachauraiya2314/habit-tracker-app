@@ -1,0 +1,37 @@
+/* Import the Inter font */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+/* Base navbar styling */
+.custom-navbar {
+  font-family: 'Inter', sans-serif;
+}
+
+/* Light theme styles */
+.navbar-light-theme {
+  background-color: #ffffff !important;
+}
+
+.navbar-light-theme .navbar-brand,
+.navbar-light-theme .nav-link,
+.navbar-light-theme .form-check-label {
+  color: #333 !important;
+}
+
+.navbar-light-theme .nav-link:hover {
+  color: #007bff !important;
+}
+
+/* Dark theme styles */
+.navbar-dark-theme {
+  background-color: #000000 !important;
+}
+
+.navbar-dark-theme .navbar-brand,
+.navbar-dark-theme .nav-link,
+.navbar-dark-theme .form-check-label {
+  color: #ffffff !important;
+}
+
+.navbar-dark-theme .nav-link:hover {
+  color: #66b2ff !important;
+}

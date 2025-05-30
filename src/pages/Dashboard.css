@@ -1,0 +1,17 @@
+body {
+    background-color: #f2f5fa;
+    font-family: 'Inter', sans-serif;
+  }
+  
+  .card-title {
+    color: #4e54c8;
+  }
+  
+  .card {
+    transition: transform 0.2s ease;
+  }
+  
+  .card:hover {
+    transform: translateY(-4px);
+  }
+  

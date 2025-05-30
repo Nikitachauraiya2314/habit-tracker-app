@@ -1,0 +1,19 @@
+input[type="checkbox"].form-check-input {
+  width: 18px;
+  height: 18px;
+  cursor: pointer;
+  accent-color: #00bfff;
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+  background-color: #f9f6fc; 
+}
+.table-striped tbody tr:nth-of-type(even) {
+  background-color: #ffffff;
+}
+
+.table-hover tbody tr:hover {
+  background-color: #eae2f8 !important;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
