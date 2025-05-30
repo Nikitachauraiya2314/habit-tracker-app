@@ -84,10 +84,4 @@ Nikita Chauraiya
 
 ---
 
-### ✅ Next Steps:
 
-- 📂 Add `README.md` file to your project root.
-- 🖼️ Add your dashboard screenshots in the `public/` folder and update the screenshot section with correct image paths like `![Dashboard](public/dashboard.png)`.
-- 🆙 Commit and push this file to GitHub.
-
-Let me know if you want me to **create and upload the file** or help with adding images!
